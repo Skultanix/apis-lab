@@ -1,0 +1,23 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skultanix/apis-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skultanix/apis-lab/issues"
+  },
+  "homepage": "https://github.com/Skultanix/apis-lab#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
